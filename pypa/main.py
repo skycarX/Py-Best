@@ -17,7 +17,6 @@ root = Tk()
 root.title("Матюкатор skycar-а.")
 root.resizable(False, False)
 root.geometry("1200x300+300+250")
-root.iconbitmap('scale_1200.ico')
 
 #Текст
 
